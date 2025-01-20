@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/css/main.3fb858b2.css",
+    "main.js": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/js/main.3c1e9d76.js",
+    "static/media/imgTodos.png": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/imgTodos.eab331f5de20bd81fbba.png",
+    "static/media/teste2.png": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/teste2.300d9a9bc7ad8f46d8b0.png",
+    "static/media/imgGato.png": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/imgGato.322cea56fb613ba15b18.png",
+    "static/media/imgSobre1.jpg": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/imgSobre1.8814d36a75d071747f1a.jpg",
+    "static/media/imgCachorro.png": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/imgCachorro.8ca710fd8e1ac2644278.png",
+    "static/media/imgSobre2.jpg": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/imgSobre2.ce33cf61c2e639eee4c7.jpg",
+    "static/media/banner4.jpg": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/banner4.d9f1c8c2e3530d7d7ed0.jpg",
+    "static/media/imgSobre3.jpg": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/imgSobre3.1d61f57b6889a5866988.jpg",
+    "static/media/banner3.jpg": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/banner3.b9aebb393a039ef175c3.jpg",
+    "static/media/logo.png": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/logo.8ebc5b826c87fdc7037f.png",
+    "static/media/banner2.jpg": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/banner2.7cd1f6f6c6c409034b12.jpg",
+    "static/media/imgPeixe.png": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/imgPeixe.e19174ac10f8b10b0079.png",
+    "static/media/carrinho-compra.png": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/media/carrinho-compra.c149bb21f9637042ab3a.png",
+    "index.html": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/index.html",
+    "main.3fb858b2.css.map": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/css/main.3fb858b2.css.map",
+    "main.3c1e9d76.js.map": "/PietroFDEV/ProjetoPetShop.github.io/%3Crepository-name%3E/static/js/main.3c1e9d76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb858b2.css",
+    "static/js/main.3c1e9d76.js"
+  ]
+}
